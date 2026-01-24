@@ -14,25 +14,25 @@ Cozy Cup Cafe is a simple cafe website project designed to showcase a cozy coffe
 
 <img src="img/home.png" width="400">
 <br>
-**Home Page** – Displays the main landing page of the Cozy Cup Cafe website with branding and navigation.
+<strong> Home Page </strong> – Displays the main landing page of the Cozy Cup Cafe website with branding and navigation.
 
 <br><br>
 
 <img src="img/about.png" width="400">
 <br>
-**About Section** – Shows a brief description of the cafe and its cozy concept.
+<strong> About Section </strong> – Shows a brief description of the cafe and its cozy concept.
 
 <br><br>
 
 <img src="img/menu.png" width="400">
 <br>
-**Menu Section** – Shows menus of the Cozy Cup Cafe website.
+<strong> Menu Section </strong> – Shows menus of the Cozy Cup Cafe website.
 
 <br><br>
 
 <img src="img/contact.png" width="400">
 <br>
-**Contact Section** – Contains contact information and social media links.
+<strong> Contact Section </strong> – Contains contact information and social media links.
 
 ## About the Authors
 
