@@ -43,7 +43,7 @@ Cozy Cup Cafe is a simple cafe website project designed to showcase a cozy coffe
 
 ### Connect with me
 
-<a href="https://www.facebook.com/denzelbermejo">
+<a href="https://www.facebook.com/Denzelandrei13">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="30">
 </a>
 
