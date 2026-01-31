@@ -75,13 +75,44 @@ nav a:hover {
 }
 
 .menu {
-    padding: 100px 0;
     text-align: center;
 }
 
-.menu h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
+.menu-category {
+    margin-top: 60px;
+}
+
+.menu-category h3 {
+    font-size: 24px;
+    margin-bottom: 30px;
+    color: #4c3c32;
+    text-align: center;
+}
+
+.menu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 30px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.menu-card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    text-align: center;
+}
+
+.menu-card h4 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.menu-card p {
+    font-size: 16px;
+    margin-bottom: 8px;
 }
 
 .about {
